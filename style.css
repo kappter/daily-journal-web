@@ -1,0 +1,5 @@
+#master24 { font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto; }
+.section { margin-bottom: 20px; }
+table { border-collapse: collapse; width: 100%; }
+td, th { border: 1px solid #ddd; padding: 8px; text-align: left; }
+.chart-container { width: 100%; height: 200px; }
